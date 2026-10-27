@@ -1,0 +1,32 @@
+{
+  "editor.parameterHints.enabled": false,
+  "editor.suggest.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+  "python.analysis.autoImportCompletions": false,
+  "jupyter.enableExtendedPythonKernelCompletions": false,
+  "cursor.cpp.disabledLanguages": [
+    "python",
+    "jupyter",
+    "markdown",
+    "raw",
+    "plaintext"
+  ],
+  "[python]": {
+    "editor.quickSuggestions": {
+      "other": "off",
+      "comments": "off",
+      "strings": "off"
+    },
+    "editor.suggest.enabled": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false
+  }
+}
