@@ -1,4 +1,5 @@
 {
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
   "editor.parameterHints.enabled": false,
   "editor.suggest.enabled": false,
   "editor.suggestOnTriggerCharacters": false,
